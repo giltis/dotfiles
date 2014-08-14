@@ -1,0 +1,11 @@
+syntax enable
+filetype indent on
+set et
+set sw=4
+set smarttab
+map <f2> :w\|!python %
+:source $HOME/.vim_docs/vimrc.vim
+set wildmode=longest,list,full
+set wildmenu
+set showmatch
+set nu
