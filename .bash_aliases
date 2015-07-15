@@ -4,7 +4,9 @@
 alias gru="git remote update"
 alias gra="git remote add"
 alias grv="git remote -v"
+alias gc="git clone"
 #development aliases
+alias nsls="source activate nsls2_dev"
 alias sa="source activate"
 alias sd="source deactivate"
 alias vt="python /home/giltis/dev/my_src/VisTrails/vistrails/run.py"
