@@ -1,0 +1,12 @@
+[user]
+	email = iltisg@gmail.com
+	name = Gabriel Iltis
+[hub]
+	protocol = ssh
+[core]
+	editor = vim
+	whitespace = lf-at-eol
+[credential]
+	helper = cache --timeout 100000000
+[push]
+	default = matching
